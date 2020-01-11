@@ -24,3 +24,8 @@ a:hover {
 .text-muted:hover {
   color: #632208;
 }
+
+div.back-to-top {
+  text-align: center;
+  padding-bottom: 1.5em;
+}
