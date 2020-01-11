@@ -29,3 +29,11 @@ div.back-to-top {
   text-align: center;
   padding-bottom: 1.5em;
 }
+
+#home {
+  background: url(img/the-keeper.png)no-repeat center center;
+  display: table;
+  position: relative;
+  width: 100%;
+  background-size:cover;
+}
