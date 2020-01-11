@@ -37,3 +37,8 @@ div.back-to-top {
   width: 100%;
   background-size:cover;
 }
+
+a.banner {
+  text-decoration: none;
+  color: white;
+}
