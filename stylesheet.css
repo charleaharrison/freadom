@@ -42,3 +42,31 @@ a.banner {
   text-decoration: none;
   color: white;
 }
+
+span.quote {
+  display: inline-block;
+  font-style: italic;
+  font-size: 0.95em;
+}
+
+span.page {
+  display: inline-block;
+  font-size: 0.95em;
+  font-weight: 500;
+}
+
+p.page {
+  text-align: right;
+}
+
+blockquote {
+  background-color: #fcfcfc;
+  padding: 1em;
+}
+
+button.read-more {
+  background-color: #fcfcfc;
+  border-radius: 2px;
+  font-weight: 500;
+  font-size: 0.9em;
+}
