@@ -1,3 +1,7 @@
+body {
+  background-color: #fcfcfc;
+}
+
 .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;
@@ -14,15 +18,16 @@
 }
 
 a {
-  color: #d46408;
+  color: #eb552d;
 }
 
 a:hover {
-  color: #cc800e;
+  color: #36599D;
+  text-decoration: none;
 }
 
 .text-muted:hover {
-  color: #632208;
+  color: #36599D;
 }
 
 div.back-to-top {
@@ -31,11 +36,18 @@ div.back-to-top {
 }
 
 #home {
-  background: url(img/the-keeper.png)no-repeat center center;
-  display: table;
+  background: url(img/freadom.png)no-repeat center center;
   position: relative;
   width: 100%;
-  background-size:cover;
+  background-size: cover;
+  text-align: center;
+}
+
+h1.banner {
+  font-family: georgia;
+  color: #174E87;
+  display: inline-block;
+  font-size: 3em;
 }
 
 a.banner {
